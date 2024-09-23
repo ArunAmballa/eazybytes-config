@@ -5,7 +5,7 @@ cards:
   message: "Welcome to EazyBank cards related Prod API's"
   contactDetails:
     name: "arunamballa-prod"
-    email:  "arun@gamil.com"
+    email:  "{cipher}00b7f9b88631e73c3e1f2797218160626efa4fb8a122b382d128d3ea284e84d8"
   onCallSupport:
     - 510993222
     - 390328084
