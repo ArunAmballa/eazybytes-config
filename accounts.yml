@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Dev API's"
+  contactDetails:
+    name: "arunamballa-Dev"
+    email: "arun@gamil.com"
+  onCallSupport:
+    - 510-9932222
+    - 39032438084

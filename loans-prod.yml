@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+loans:
+  message: "Welcome to EazyBank loans related Prod API's"
+  contactDetails:
+    name: "arunamballa-prod"
+    email:  "arun@gamil.com"
+  onCallSupport:
+    - 510993222
+    - 390328084
+

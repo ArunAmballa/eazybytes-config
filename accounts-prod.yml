@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EazyBank accounts related Prod API's"
+  contactDetails:
+    name: "arunamballa-prod"
+    email:  "arun@gamil.com"
+  onCallSupport:
+    - 510993222
+    - 390328084
+

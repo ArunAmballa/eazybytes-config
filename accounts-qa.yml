@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to EazyBank accounts related Qa API's"
+  contactDetails:
+    name: "arunamballa-qa"
+    email:  "arun@gamil.com"
+  onCallSupport:
+    - 510993222
+    - 390328084
+
