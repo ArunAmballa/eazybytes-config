@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to EazyBank accounts related Production and final API's"
+  message: "Welcome to EazyBank accounts related Production and final API's and Bus"
   contactDetails:
     name: "arunamballa-prod"
     email:  "arun@gamil.com"
